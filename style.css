@@ -1,0 +1,76 @@
+
+  li{
+    color:white;
+    list-style-type: none;
+   
+  }
+  .a{
+  text-decoration: none;
+  color:white;
+  font-size: larger;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+nav:hover{
+  border-bottom: yellow;
+}
+#ss{
+  
+  border-radius: 75px;
+}
+
+#ps {
+ background-color: black;
+}
+div.sticky {
+      position: -webkit-sticky;
+      position: sticky;
+      top: 0;
+       }
+       .center{
+        
+        margin-left: auto;
+        margin-right:auto;
+       }
+       
+       .container{
+        padding:2px 16px;
+}
+#ani{
+  float: right;
+  width: 30%;
+  height:30%;
+  border-radius: 5px;
+
+}
+#ab{
+  width: 45%;
+ 
+  
+}
+#sk{
+  width:200px;
+  height:30%;
+  float:right;
+  
+  
+}
+#project{
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+button:hover{
+  background-color: rgb(196, 224, 196);
+
+
+}
+#edu{
+  float: left;
+  width:35%;
+  height:170px;
+  margin-top: 20px;
+}
+#contact{
+  margin-top: 500px;
+}
